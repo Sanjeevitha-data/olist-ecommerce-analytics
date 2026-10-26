@@ -69,6 +69,11 @@ The Power BI report contains two pages:
 1\. \*\*Executive Overview:\*\* Order volume, delivered item sales, customer count, monthly sales trend, top product categories, and order status.
 
 2\. \*\*Customer \& Operations:\*\* Delivery KPIs and customer review score distribution.
+### Executive Overview
+![Executive Overview](executive_overview.png)
+
+### Customer & Operations
+![Customer & Operations](customer_operations.png)
 
 
 
